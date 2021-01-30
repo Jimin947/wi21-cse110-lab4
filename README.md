@@ -1,1 +1,2 @@
-# wi21-cse110-lab4
+# Name: Jimin Cheon
+# Email: jicheon@ucsd.edu
