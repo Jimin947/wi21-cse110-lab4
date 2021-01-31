@@ -1,2 +1,2 @@
-# Name: Jimin Cheon
-# Email: jicheon@ucsd.edu
+# Jimin Cheon
+- Email: jicheon@ucsd.edu
